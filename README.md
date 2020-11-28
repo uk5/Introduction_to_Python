@@ -1,3 +1,3 @@
 # Introduction_to_Python
 
-Lets learn Basics of Python, Contrl Structures etc
+Lets learn Basics of Python, Control Structures etc
